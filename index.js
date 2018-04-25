@@ -5,3 +5,7 @@ function shout(allcaps) {
 function whisper(lowercase) {
   return lowercase.toLowerCase()
 }
+
+logshout(call) {
+  console.log ('call.toUpperCase()')
+}
