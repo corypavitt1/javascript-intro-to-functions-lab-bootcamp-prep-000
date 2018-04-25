@@ -4,4 +4,4 @@ function shout(allcaps) {
 
 function whisper(lowercase {
   return lowercase.toLowerCase()
-})
+}
