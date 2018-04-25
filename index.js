@@ -7,5 +7,6 @@ function whisper(lowercase) {
 }
 
 logshout(call) {
-  console.log ('call').toUpperCase()
+  return call.toUpperCase()
+  console.log ('call')
 }
